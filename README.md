@@ -49,7 +49,7 @@ You need the following tools:
 
 ### Section 3: Using the Tool
 
-1. Run `New_Draft_Class_Generator.py`
+1. Run `New_Draft_Class_Generator.exe`
 2. Click **Browse** next to **Roster CSV File** and select your file.
 3. (Optional) Select a TXT file for updated acceptable names.
 4. Click **"Generate Draft Class (from CSV)"**
@@ -95,9 +95,3 @@ Enjoy your draft classes! 🏈
 
 ### Feedback & Support
 Found a bug or have a suggestion? Feel free to open an issue or message me.
-
----
-
-You can copy everything above and save it as **`README.md`** in your repository root.
-
-Would you like a shorter version for the main page or an "Installation" section added?
