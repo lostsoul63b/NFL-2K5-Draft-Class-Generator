@@ -26,9 +26,9 @@ A clean, user-friendly tool that generates complete 380-player draft classes for
 
 You need the following tools:
 
-1. **myMC** → [Download(https://github.com/lostsoul63b/NFL-2K5-Draft-Class-Generator/blob/master/mymc.zip)]
-2. **Flying_Finn's NFL 2K5 Gamesave Editor** → [Download(https://github.com/lostsoul63b/NFL-2K5-Draft-Class-Generator/blob/master/NFL%202K5%20GameSave%20Editor.zip)]
-3. **Bad_AL's NFL 2K5Tool** → [Download(https://github.com/lostsoul63b/NFL-2K5-Draft-Class-Generator/blob/master/NFL2K5Tool_0.9.0.9_Release.zip)]
+1. **myMC** → [Download](https://github.com/lostsoul63b/NFL-2K5-Draft-Class-Generator/blob/master/mymc.zip)
+2. **Flying_Finn's NFL 2K5 Gamesave Editor** → [Download](https://github.com/lostsoul63b/NFL-2K5-Draft-Class-Generator/blob/master/NFL%202K5%20GameSave%20Editor.zip)
+3. **Bad_AL's NFL 2K5Tool** → [Download](https://github.com/lostsoul63b/NFL-2K5-Draft-Class-Generator/blob/master/NFL2K5Tool_0.9.0.9_Release.zip)
 4. **ESPN NFL 2K5 Draft Class Generator GUI v2.0** (download latest release)
 
 ---
