@@ -31,7 +31,7 @@ You need the following tools:
 | Flying_Finn's Gamesave Editor | [Download](https://github.com/lostsoul63b/NFL-2K5-Draft-Class-Generator/blob/master/NFL%202K5%20GameSave%20Editor.zip) | 
 | Bad_AL's NFL 2K5Tool | [Download](https://github.com/lostsoul63b/NFL-2K5-Draft-Class-Generator/blob/master/NFL2K5Tool_0.9.0.9_Release.zip) |
 | mymc | [Download](https://github.com/lostsoul63b/NFL-2K5-Draft-Class-Generator/blob/master/mymc.zip) |
-| ESPN NFL 2K5 Draft Class Generator GUI v2.0 | (download latest release) |
+| ESPN NFL 2K5 Draft Class Generator v2.0 | (download latest release) |
 
 ---
 
@@ -49,7 +49,7 @@ You need the following tools:
 
 ### Step 3: Using the ESPN NFL 2K5 Draft Class Generator GUI Tool
 
-1. Run `NFL2K5_Draft_Class_Generator.exe`
+1. Run `NFL2K5_Draft_Class_Generator_v2.0.exe`
 2. Click **Browse** next to **Roster CSV File** and select your file.
 3. (Optional) Select a TXT file for updated acceptable names.
 4. Click **"Generate Draft Class (from CSV)"**
