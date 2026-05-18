@@ -36,7 +36,7 @@
 
 ## Need Help?
 
-- Click the **"Open Documentation"** button → GitHub page
+- Visit the GitHub page
 - Use **"Show Debug Info"** if something looks wrong.
 
 ---
