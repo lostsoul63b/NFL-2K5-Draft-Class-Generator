@@ -1,4 +1,4 @@
-# ESPN NFL 2K5 Draft Class Generator GUI
+# NFL2K5 Draft Class Generator - Version 2.0
 
 **Version 2.0** – Improved GUI Edition
 
