@@ -1,6 +1,6 @@
 # ESPN NFL 2K5 Draft Class Generator GUI
 
-**Version 2.0** – Modern GUI Edition
+**Version 2.0** – Improved GUI Edition
 
 A clean, user-friendly tool that generates complete 380-player draft classes for ESPN NFL 2K5.
 
@@ -10,7 +10,7 @@ A clean, user-friendly tool that generates complete 380-player draft classes for
 
 ### ✨ What's New in Version 2.0
 
-- Beautiful dark-themed graphical interface
+- New dark-themed UI
 - Easy **Browse** buttons for file selection
 - Live **Progress Bar** with real-time status
 - Remembers your last used CSV and TXT files
@@ -22,34 +22,34 @@ A clean, user-friendly tool that generates complete 380-player draft classes for
 
 ---
 
-### Section 1: Setup
+### Step 1: Setup
 
 You need the following tools:
 
-1. **myMC** → http://www.csclub.uwaterloo.ca:11068/mymc/
-2. **Flying_Finn's NFL 2K5 Gamesave Editor** → http://www.nfl2k5rosters.com/files/NFL2k5_V4_0_0_41.exe
-3. **Bad_AL's NFL 2K5 Tool** → https://forums.operationsports.com/forums/espn-nfl-2k5-football/881901-nfl2k5tool.html
-4. **This Tool** (download latest release)
+1. **myMC** → download the bundle
+2. **Flying_Finn's NFL 2K5 Gamesave Editor** → download the bundle
+3. **Bad_AL's NFL 2K5Tool** → download the bundle
+4. **ESPN NFL 2K5 Draft Class Generator GUI v2.0** (download latest release)
 
-**All-in-one package:** [Download Other Programs](https://www.mediafire.com/file/6lzllusadz09vz8/OtherPrograms.zip/file)
+**Bundle package:** [Download Bundle]()
 
 ---
 
-### Section 2: Preparing Your Roster CSV
+### Step 2: Preparing Your Roster CSV
 
 1. Make sure your franchise is in the **offseason**.
 2. Save and close PCSX2.
 3. Extract your franchise file using **myMC**.
-4. Open **Bad_AL's NFL 2K5 Tool**.
+4. Open **Bad_AL's 2K5Tool**.
 5. Load your extracted `.max` file.
 6. Go to **View** → deselect everything except **"List Draft Class"**.
 7. Click **List Contents** → **File → Save Text** as `.csv`.
 
 ---
 
-### Section 3: Using the Tool
+### Step 3: Using the ESPN NFL 2K5 Draft Class Generator GUI Tool
 
-1. Run `New_Draft_Class_Generator.exe`
+1. Run `NFL2K5_Draft_Class_Generator.exe`
 2. Click **Browse** next to **Roster CSV File** and select your file.
 3. (Optional) Select a TXT file for updated acceptable names.
 4. Click **"Generate Draft Class (from CSV)"**
@@ -63,9 +63,9 @@ You need the following tools:
 
 ---
 
-### Section 4: Importing Back Into Your Save
+### Step 4: Importing Back Into Your Save
 
-1. Open **Bad_AL's NFL 2K5 Tool** and load your franchise.
+1. Open **Bad_AL's NFL 2K5Tool** and load your franchise.
 2. View → Only enable **"List Draft Class"**.
 3. Click **List Contents** → **Clear**.
 4. Open `new.csv` in **Notepad** (not Excel), copy everything.
@@ -77,7 +77,7 @@ You need the following tools:
 
 ---
 
-### Section 5: Notes
+### Step 5: Notes
 
 - The tool uses names from your game's database for best compatibility.
 - For custom rosters, use **"Generate acceptableNames.txt"** first.
@@ -87,7 +87,7 @@ You need the following tools:
 ---
 
 Original Creator: **2k5master**  
-Modern GUI & Improvements: **LostsouL**
+Version 2.0 UI + Improvements: **LostsouL**
 
 Enjoy your draft classes! 🏈
 
