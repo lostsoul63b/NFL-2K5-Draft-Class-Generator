@@ -47,19 +47,19 @@ You need the following tools:
 
 ---
 
-### Step 3: Using the ESPN NFL 2K5 Draft Class Generator GUI Tool
+### Step 3: Using the NFL2K5 Draft Class Generator Tool
 
 1. Run `NFL2K5_Draft_Class_Generator_v2.0.exe`
 2. Click **Browse** next to **Roster CSV File** and select your file.
 3. (Optional) Select a TXT file for updated acceptable names.
-4. Click **"Generate Draft Class (from CSV)"**
+4. Click **"Generate New Draft Class"**
 
    - Watch the progress bar
    - `new.csv` will be created and automatically opened
 
-**Quick Test:** Use **"Generate Random Draft Class (No CSV)"** anytime.
+**Quick Test:** Use **"Generate Random Draft Class"** anytime.
 
-**Name Options:** Use the Disable/Enable buttons to control suffixes (Jr, Sr, III, etc.).
+**Name Options:** Use the Disable/Enable button to control suffixes (Jr, Sr, III, etc.).
 
 ---
 
