@@ -1,6 +1,6 @@
 # NFL2K5 Draft Class Generator
 
-**Version 2.0** – Improved GUI Edition
+**Version 2.0** – Improved UI Edition
 
 A clean, user-friendly tool that generates complete 380-player draft classes for ESPN NFL 2K5.
 
@@ -22,7 +22,7 @@ A clean, user-friendly tool that generates complete 380-player draft classes for
 
 ---
 
-### Step 1: Setup
+### Section 1: Setup
 
 You need the following tools:
 
@@ -35,7 +35,7 @@ You need the following tools:
 
 ---
 
-### Step 2: Preparing Your Roster CSV
+### Section 2: Preparing Your Roster CSV
 
 1. Make sure your franchise is in the **offseason**.
 2. Save and close PCSX2.
@@ -47,7 +47,7 @@ You need the following tools:
 
 ---
 
-### Step 3: Using the NFL2K5 Draft Class Generator Tool
+### Section 3: Using the NFL2K5 Draft Class Generator Tool
 
 1. Run `NFL2K5_Draft_Class_Generator_v2.0.exe`
 2. Click **Browse** next to **Roster CSV File** and select your file.
@@ -63,7 +63,7 @@ You need the following tools:
 
 ---
 
-### Step 4: Importing Back Into Your Save
+### Section 4: Importing Back Into Your Save
 
 1. Open **Bad_AL's NFL 2K5Tool** and load your franchise.
 2. View → Only enable **"List Draft Class"**.
@@ -77,7 +77,7 @@ You need the following tools:
 
 ---
 
-### Step 5: Notes
+### Section 5: Notes
 
 - The tool uses names from your game's database for best compatibility.
 - For custom rosters, use **"Generate acceptableNames.txt"** first.
@@ -89,7 +89,7 @@ You need the following tools:
 Original Creator: **2k5master**  
 Version 2.0 UI + Improvements: **LostsouL**
 
-Enjoy your draft classes! 🏈
+Enjoy creating draft classes! 🏈
 
 ---
 
