@@ -1,5 +1,7 @@
 # NFL2K5 Draft Class Generator
 
+<img width="1280" height="720" alt="Slide4" src="https://github.com/user-attachments/assets/f81edf16-e035-4bf2-9832-cc1d7fe333cf" />
+
 **Version 2.0** – Improved UI Edition
 
 A clean, user-friendly tool that generates complete 380-player draft classes for ESPN NFL 2K5.
