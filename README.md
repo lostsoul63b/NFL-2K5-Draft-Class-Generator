@@ -19,6 +19,7 @@ A clean, user-friendly tool that generates complete 380-player draft classes for
 - Automatically opens `new.csv` after generation
 - **Generate Random Draft Class** button (no CSV needed)
 - Always generates **exactly 380 players**
+- Fixed '******' player name bug
 - Much more reliable position and jersey number parsing
 - Safer operation (button disabled while generating)
 
