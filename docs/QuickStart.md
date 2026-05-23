@@ -1,44 +1,66 @@
 # NFL 2K5 Draft Class Generator v2.0
-**by LostsouL**
+
+Updated GUI tool by **LostsouL** (fork of 2k5master's original)
 
 ---
 
 ## Quick Start Guide
 
-1. **Extract** all files from this ZIP to a new folder.
+### Prerequisites
+- mymc
+- Flying Finn’s NFL 2K5 Gamesave Editor
+- Bad_AL’s NFL2K5 Tool
 
-2. **Run the program:**
-   - Double-click `NFL2K5_DraftClassGenerator_v2.0.exe`
+---
 
-3. **Generate a Draft Class (Recommended):**
-   - Click **"Browse"** next to **Roster CSV File** and select your exported roster CSV.
-   - Click **"Generate Draft Class (from CSV)"**.
-   - `new.csv` will be created and should open automatically.
+### Step-by-Step Instructions
 
-4. **Alternative - Quick Test:**
-   - Click **"Generate Random Draft Class"** (no CSV needed).
+1. **Extract** the ZIP file into a new folder and run `NFL2K5_DraftClassGenerator_v2.0.exe`
 
-5. **Update Name List** (if using custom rosters):
-   - Click **"Browse"** next to **Roster TXT File**.
-   - Click **"Generate acceptableNames.txt"**.
-   - Restart the program after this step.
+2. **Export Names** (for custom rosters):
+   - Open your franchise in Bad_AL’s Tool
+   - Go to **View** → deselect everything except **List Teams**
+   - Save as `names.txt`
+
+3. **Export Draft Class**:
+   - Switch view to **List Draft Class only**
+   - Save as `class.csv`
+
+4. **Update Name Database**:
+   - In the tool, browse to your `names.txt` under **Roster TXT File**
+   - Click **Generate acceptableNames.txt**
+
+5. **Generate Draft Class**:
+   - Browse to your `class.csv` under **Roster CSV File**
+   - Click **Generate New Draft Class**
+   - `new.csv` will be created and opened automatically
+
+### Alternative Options
+
+- **Generate Random Draft Class** – Creates a full 380-player draft class instantly (no CSV needed)
+- **Suffix Toggle** – Green button = Remove suffixes (Jr, Sr, III, etc.) | Grey = Keep suffixes
+
+---
+
+### Final Import Steps
+
+6. Open your franchise in Bad_AL’s Tool (List Draft Class view)
+7. Clear the window, then drag & drop `new.csv` into it and save
+8. Open the save in Flying Finn’s Editor → open any player → click **Accept** → save
+9. Import the modified save back into mymc
+
+You’re now ready to load your franchise and enjoy the new draft class!
 
 ---
 
 ## Tips
 
-- The program remembers your last used files.
+- The tool remembers your last used files
+- Always run the .exe from the same folder containing `acceptableNames.txt`
 - **Green button** = Name suffixes (Jr, Sr, III, etc.) will be removed.
 - **Grey button** = Name suffixes will be kept.
-- Always run the tool from the same folder where `acceptableNames.txt` is located.
+- Use **Show Debug Info** if you encounter any issues
 
 ---
 
-## Need Help?
-
-- Visit the GitHub page
-- Use **"Show Debug Info"** if something looks wrong.
-
----
-
-**Enjoy building your draft classes!** 🏈
+**Enjoy building your franchises!** 🏈
