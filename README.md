@@ -25,67 +25,53 @@ A clean, user-friendly tool that generates complete 380-player draft classes for
 
 ---
 
-### Section 1: Setup
+### Step-by-Step Instructions
 
-You need the following tools:
+1. **Extract** the ZIP file into a new folder and run `NFL2K5_DraftClassGenerator_v2.0.exe`
 
-| Tool | Download |
-| :------------- | :-------------: | 
-| Flying_Finn's Gamesave Editor | [Download](https://github.com/lostsoul63b/NFL-2K5-Draft-Class-Generator/blob/master/NFL%202K5%20GameSave%20Editor.zip) | 
-| Bad_AL's NFL 2K5Tool | [Download](https://github.com/lostsoul63b/NFL-2K5-Draft-Class-Generator/blob/master/NFL2K5Tool_0.9.0.9_Release.zip) |
-| mymc | [Download](https://github.com/lostsoul63b/NFL-2K5-Draft-Class-Generator/blob/master/mymc.zip) |
-| NFL2K5 Draft Class Generator v2.0 | (download latest release) |
+2. **Export Names** (for custom rosters):
+   - Open your franchise in Bad_AL’s Tool
+   - Go to **View** → deselect everything except **List Teams**
+   - Save as `names.txt`
 
----
+3. **Export Draft Class**:
+   - Switch view to **List Draft Class only**
+   - Save as `class.csv`
 
-### Section 2: Preparing Your Roster CSV
+4. **Update Name Database**:
+   - In the tool, browse to your `names.txt` under **Roster TXT File**
+   - Click **Generate acceptableNames.txt**
 
-1. Make sure your franchise is in the **offseason**.
-2. Save and close PCSX2.
-3. Extract your franchise file using **myMC**.
-4. Open **Bad_AL's 2K5Tool**.
-5. Load your extracted `.max` file.
-6. Go to **View** → deselect everything except **"List Draft Class"**.
-7. Click **List Contents** → **File → Save Text** as `.csv`.
+5. **Generate Draft Class**:
+   - Browse to your `class.csv` under **Roster CSV File**
+   - Click **Generate New Draft Class**
+   - `new.csv` will be created and opened automatically
 
----
+### Alternative Options
 
-### Section 3: Using the NFL2K5 Draft Class Generator Tool
-
-1. Run `NFL2K5_Draft_Class_Generator_v2.0.exe`
-2. Click **Browse** next to **Roster CSV File** and select your file.
-3. (Optional) Select a TXT file for updated acceptable names.
-4. Click **"Generate New Draft Class"**
-
-   - Watch the progress bar
-   - `new.csv` will be created and automatically opened
-
-**Quick Test:** Use **"Generate Random Draft Class"** anytime.
-
-**Name Options:** Use the Disable/Enable button to control suffixes (Jr, Sr, III, etc.).
+- **Generate Random Draft Class** – Creates a full 380-player draft class instantly (no CSV needed)
+- **Suffix Toggle** – Green button = Remove suffixes (Jr, Sr, III, etc.) | Grey = Keep suffixes
 
 ---
 
-### Section 4: Importing Back Into Your Save
+### Final Import Steps
 
-1. Open **Bad_AL's NFL 2K5Tool** and load your franchise.
-2. View → Only enable **"List Draft Class"**.
-3. Click **List Contents** → **Clear**.
-4. Open `new.csv` in **Notepad** (not Excel), copy everything.
-5. Paste into the tool and click **File → Save**.
-6. Open **Flying_Finn's Editor**, load any player, click **Accept**, then save.
-7. Use **myMC** to import the modified `.max` file back.
+6. Open your franchise in Bad_AL’s Tool (List Draft Class view)
+7. Clear the window, then drag & drop `new.csv` into it and save
+8. Open the save in Flying Finn’s Editor → open any player → click **Accept** → save
+9. Import the modified save back into mymc
 
-**Always backup your original save first!**
+You’re now ready to load your franchise and enjoy the new draft class!
 
 ---
 
-### Section 5: Notes
+## Tips
 
-- The tool uses names from your game's database for best compatibility.
-- For custom rosters, use **"Generate acceptableNames.txt"** first.
-- The tool now intelligently pads to **exactly 380 players** if needed.
-- Source code is open and free to modify.
+- The tool remembers your last used files
+- Always run the .exe from the same folder containing `acceptableNames.txt`
+- **Green button** = Name suffixes (Jr, Sr, III, etc.) will be removed.
+- **Grey button** = Name suffixes will be kept.
+- Use **Show Debug Info** if you encounter any issues
 
 ---
 
