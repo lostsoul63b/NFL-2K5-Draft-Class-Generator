@@ -6,7 +6,7 @@ Updated GUI tool by **LostsouL** (fork of 2k5master's original)
 
 A clean, user-friendly tool that generates complete 380-player draft classes for ESPN NFL 2K5.
 
-**YouTube Tutorial:** [Watch Here]()
+**YouTube Tutorial:** [Watch Here](https://youtu.be/3yG1gAeAkaA)
 
 ---
 
