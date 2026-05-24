@@ -1,6 +1,6 @@
 # NFL2K5 Draft Class Generator
 
-<img width="1280" height="720" alt="Slide4" src="https://github.com/user-attachments/assets/f81edf16-e035-4bf2-9832-cc1d7fe333cf" />
+<img width="1280" height="720" alt="Slide4" src="https://github.com/user-attachments/assets/81a78396-49e0-49ae-a528-5a9ca47c2a14" />
 
 Updated GUI tool by **LostsouL** (fork of 2k5master's original)
 
